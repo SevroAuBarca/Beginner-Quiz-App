@@ -25,6 +25,8 @@ const showScore = () => {
 </button>`;
 
   document.getElementById("retry").addEventListener("click", () => {
+    answers.correct = 0;
+    answers.incorrect = 0;
     showMenu();
   });
 };
