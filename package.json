@@ -1,0 +1,28 @@
+{
+  "name": "beginner-quiz-app",
+  "version": "1.0.0",
+  "description": "Quiz app from beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevroAuBarca/Beginner-Quiz-App.git"
+  },
+  "keywords": [
+    "Quiz",
+    "app",
+    "js"
+  ],
+  "author": "Daniel Contreras <SevroAuBarca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SevroAuBarca/Beginner-Quiz-App/issues"
+  },
+  "homepage": "https://github.com/SevroAuBarca/Beginner-Quiz-App#readme",
+  "devDependencies": {
+    "axios": "^0.24.0",
+    "sass": "^1.45.1"
+  }
+}
